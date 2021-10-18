@@ -1,0 +1,8 @@
+interactive shell
+$ docker exec -it container_id python manage.py createsuperuser
+
+Docker Running Container
+$ docker ps
+
+docker run the cmd
+$docker run image_name
